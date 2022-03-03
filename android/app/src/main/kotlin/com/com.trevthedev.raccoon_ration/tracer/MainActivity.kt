@@ -1,4 +1,4 @@
-package com.example.raccoon_ration
+package com.raccoon_ration
 
 import io.flutter.embedding.android.FlutterActivity
 
