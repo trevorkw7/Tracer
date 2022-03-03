@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.14)
-project(tracer LANGUAGES CXX)
+project(raccoon ration LANGUAGES CXX)
 
-set(BINARY_NAME "tracer")
+set(BINARY_NAME "raccoon ration")
 
 cmake_policy(SET CMP0063 NEW)
 
