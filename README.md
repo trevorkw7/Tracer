@@ -1,4 +1,4 @@
-# Raccoon Ration 🍪�
+# Raccoon Ration 🍪
 A simple app that helps UCSD students calculate how many dining dollars the can spend per day. Simply enter your remaining balance and select the times you're off campus and see how many dollars you can spend per day and per meal! 
 
 Named after the raccoon, the unofficial symbol of the UCSD campus 🦝🦝🦝
