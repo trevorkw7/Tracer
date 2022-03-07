@@ -5,6 +5,8 @@ Named after the raccoon, the unofficial symbol of the UCSD campus 🦝🦝🦝
 
 **✅ App Status**: Currently listed in the Google Play Store for Open Testing.
 
+<a href="https://play.google.com/store/apps/details?id=com.raccoon_ration"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height=60px /></a>
+
 **🦋 Development info**: This app was designed in Figma and developed in Flutter.
 
 <p float="left" align="center">
